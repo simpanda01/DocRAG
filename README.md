@@ -213,23 +213,7 @@ We welcome contributions to improve DocRAG . Please follow these steps:
 5. Push to the branch (`git push origin feature/AmazingFeature`)
 6. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## 👏 Acknowledgments
-
-- OpenAI for providing the AI models
-- React and Node.js communities for excellent documentation
-- All contributors who have helped improve this project
-
-## 📞 Contact
-
-Your Name - arkavaiya@gmail.com
-
-Project Link: [https://github.com/your-username/healthcare-website](https://github.com/Yash-Kavaiya/DocRAG )
-
----
 
 <div align="center">
 
