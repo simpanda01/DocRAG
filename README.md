@@ -1,4 +1,4 @@
-# DocRAG  - Intelligent Healthcare Solutions 🏥✨
+# DocRAG  - Healthcare Companion 🏥
 
 ![DocRAG  Banner](./Images/Home.png)
 
