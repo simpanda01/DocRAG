@@ -72,8 +72,8 @@ graph TD
 | **Backend** | Node.js, Express |
 | **AI Integration** | OpenAI API |
 | **File Processing** | Multer, pdf-img-convert |
-| **Styling** | Tailwind CSS, Lucide React (icons) |
-| **Routing** | React Router |
+| **Styling** | Tailwind CSS, Angular (icons) |
+| **Routing** | Angular Router |
 | **HTTP Requests** | Axios |
 
 ## 🚀 Setup Instructions
