@@ -20,7 +20,7 @@ The DocRAG  platform follows a client-server architecture with AI integration fo
 
 ```mermaid
 graph TD
-    A[Frontend - React.js] -->|API Requests| B[Backend - Node.js]
+    A[Frontend - Angular.js] -->|API Requests| B[Backend - Node.js]
     B -->|Responses| A
     B -->|AI Processing| C[OpenAI API]
     C -->|Analysis Results| B
