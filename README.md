@@ -146,10 +146,10 @@ healthcare-website/
 │   ├── index.js           # Main server file
 │   ├── uploads/           # Storage for uploaded files
 │   └── package.json       # Backend dependencies
-├── frontend/              # React frontend
+├── frontend/              # Angular frontend
 │   ├── public/            # Static files
 │   ├── src/               # Source code
-│   │   ├── components/    # React components
+│   │   ├── components/    # Angular components
 │   │   ├── styles/        # CSS styles
 │   │   ├── api/           # API service files
 │   │   └── routes/        # Frontend routes
