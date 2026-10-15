@@ -68,7 +68,7 @@ graph TD
 
 | Layer | Technologies |
 |-------|-------------|
-| **Frontend** | React.js, TypeScript, Tailwind CSS |
+| **Frontend** |     Angular, TypeScript, Tailwind CSS |
 | **Backend** | Node.js, Express |
 | **AI Integration** | OpenAI API |
 | **File Processing** | Multer, pdf-img-convert |
