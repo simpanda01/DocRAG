@@ -20,7 +20,7 @@ The DocRAG  platform follows a client-server architecture with AI integration fo
 
 ```mermaid
 graph TD
-    A[Frontend - Angular.js] -->|API Requests| B[Backend - Node.js]
+    A[Frontend - React.js] -->|API Requests| B[Backend - Node.js]
     B -->|Responses| A
     B -->|AI Processing| C[OpenAI API]
     C -->|Analysis Results| B
@@ -68,12 +68,12 @@ graph TD
 
 | Layer | Technologies |
 |-------|-------------|
-| **Frontend** |     Angular, TypeScript, Tailwind CSS |
+| **Frontend** |     React, TypeScript, Tailwind CSS |
 | **Backend** | Node.js, Express |
 | **AI Integration** | OpenAI API |
 | **File Processing** | Multer, pdf-img-convert |
-| **Styling** | Tailwind CSS, Angular (icons) |
-| **Routing** | Angular Router |
+| **Styling** | Tailwind CSS, React (icons) |
+| **Routing** | React Router |
 | **HTTP Requests** | Axios |
 
 ## 🚀 Setup Instructions
@@ -146,10 +146,10 @@ healthcare-website/
 │   ├── index.js           # Main server file
 │   ├── uploads/           # Storage for uploaded files
 │   └── package.json       # Backend dependencies
-├── frontend/              # Angular frontend
+├── frontend/              # React frontend
 │   ├── public/            # Static files
 │   ├── src/               # Source code
-│   │   ├── components/    # Angular components
+│   │   ├── components/    # React components
 │   │   ├── styles/        # CSS styles
 │   │   ├── api/           # API service files
 │   │   └── routes/        # Frontend routes
